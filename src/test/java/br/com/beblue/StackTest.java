@@ -138,7 +138,7 @@ public class StackTest {
 		Assert.assertEquals(item, min);
 	}
 	
-    @Test
+	@Test
 	public void test_min_with_two_items() {
 		// Arrange
 		Integer lowerItem = 1;
